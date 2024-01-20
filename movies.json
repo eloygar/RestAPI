@@ -1,0 +1,44 @@
+[
+    {
+        "Name": "Inception",
+        "director": "Christopher Nolan",
+        "genre": "Sci-Fi",
+        "releaseYear": 2010
+    },
+    {
+        "Name": "The Shawshank Redemption",
+        "director": "Frank Darabont",
+        "genre": "Drama",
+        "releaseYear": 1994
+    },
+    {
+        "Name": "The Dark Knight",
+        "director": "Christopher Nolan",
+        "genre": "Action",
+        "releaseYear": 2008
+    },
+    {
+        "Name": "Pulp Fiction",
+        "director": "Quentin Tarantino",
+        "genre": "Crime",
+        "releaseYear": 1994
+    },
+    {
+        "Name": "Forrest Gump",
+        "director": "Robert Zemeckis",
+        "genre": "Drama",
+        "releaseYear": 1994
+    },
+    {
+        "Name": "The Godfather",
+        "director": "Francis Ford Coppola",
+        "genre": "Crime",
+        "releaseYear": 1972
+    },
+    {
+        "Name": "The Matrix",
+        "director": "The Wachowskis",
+        "genre": "Sci-Fi",
+        "releaseYear": 1999
+    }
+]
